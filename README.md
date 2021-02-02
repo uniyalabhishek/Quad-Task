@@ -1,5 +1,5 @@
 
-These packages are included as dependencies in package.json file
+
 
 ## Steps to run project
 
